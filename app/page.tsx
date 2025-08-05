@@ -1037,7 +1037,7 @@ export default function Portfolio() {
       <Image
         src="/sandy.jpg"
         alt="Sandhya Lamichhane"
-        width={300}
+        width={400}
         height={300}
         className="w-full h-full object-top object-cover rounded-full"
         priority
