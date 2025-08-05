@@ -1032,16 +1032,16 @@ export default function Portfolio() {
 
                   {/* Main photo container */}
                   <motion.div whileHover={{ scale: 1.05 }} className="relative z-10 w-80 h-80 mx-auto">
-                    <div className="absolute inset-0 bg-gradient-to-r from-pink-500 to-orange-500 rounded-full p-1">
-                      <div className="w-full h-full bg-white dark:bg-gray-900 rounded-full p-2">
-                        <Image
-                          src="/sandy.jpg?height=300&width=300"
-                          alt="Sandhya Lamichhane"
-                          width={300}
-                          height={300}
-                          className="w-full h-full object-cover rounded-full"
-                          priority
-                        />
+  <div className="absolute inset-0 bg-gradient-to-r from-pink-500 to-orange-500 rounded-full p-1">
+    <div className="w-full h-full bg-white dark:bg-gray-900 rounded-full overflow-hidden p-2">
+      <Image
+        src="/sandy.jpg"
+        alt="Sandhya Lamichhane"
+        width={300}
+        height={300}
+        className="w-full h-full object-top object-cover rounded-full"
+        priority
+      />
                       </div>
                     </div>
 
