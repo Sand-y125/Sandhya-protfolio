@@ -1928,7 +1928,7 @@ export default function Portfolio() {
                   SL
                 </motion.div>
                 <p className="text-gray-400 text-sm">
-                  Passionate BSc.IT student building the future through code and creativity.
+                  Passionate BSc(hons)CS student building the future through code and creativity.
                 </p>
               </div>
 
