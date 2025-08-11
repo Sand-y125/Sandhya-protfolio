@@ -8,7 +8,7 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "Sandhya Lamichhane - Portfolio",
   description: "Personal portfolio of Sandhya Lamichhane,BSC(hons)CS,  2nd Year student and aspiring tech enthusiast",
-  keywords: "Sandhya Lamichhane, portfolio, BSc.IT, web developer, student, Nepal",
+  keywords: "Sandhya Lamichhane, portfolio, BSC(hons)CS, web developer, student, Nepal",
   authors: [{ name: "Sandhya Lamichhane" }],
   openGraph: {
     title: "Sandhya Lamichhane - Portfolio",
