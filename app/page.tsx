@@ -1209,7 +1209,7 @@ export default function Portfolio() {
                       >
                         <div className="w-4 h-4 bg-pink-500 rounded-full mt-2 flex-shrink-0"></div>
                         <div>
-                          <h3 className="font-semibold text-lg">BSc.IT - 2nd Year</h3>
+                          <h3 className="font-semibold text-lg">BSc(hons)CS- 2nd Year</h3>
                           <p className="text-pink-600 dark:text-blue-400 font-medium">Currently Pursuing (2023-2027)</p>
                           <p className="text-sm text-gray-600 dark:text-gray-300 mt-1">
                             Focusing on web development, programming fundamentals, database management, and software
@@ -1366,7 +1366,7 @@ export default function Portfolio() {
                 Skills & Expertise
               </h2>
               <p className="text-xl text-gray-600 dark:text-gray-300 max-w-3xl mx-auto">
-                Here are the technologies and skills I've been developing during my journey as a BSc.IT student.
+                Here are the technologies and skills I've been developing during my journey as a BSc(hons)CS student.
               </p>
             </motion.div>
 
@@ -1420,7 +1420,7 @@ export default function Portfolio() {
                 My Projects
               </h2>
               <p className="text-xl text-gray-600 dark:text-gray-300 max-w-3xl mx-auto">
-                Here are some of the projects I've been working on during my journey as a BSc.IT student.
+                Here are some of the projects I've been working on during my journey as a BSc(hons)CS student.
               </p>
             </motion.div>
 
