@@ -936,7 +936,7 @@ export default function Portfolio() {
                   transition={{ duration: 0.8, delay: 1.1 }}
                   className="text-xl md:text-2xl text-gray-600 dark:text-gray-300 mb-6"
                 >
-                  <TypewriterText text="Aspiring Tech Enthusiast | BSc.IT 2nd Year" delay={1500} />
+                  <TypewriterText text="Aspiring Tech Enthusiast | BSc(hons)CS, 2nd Year" delay={1500} />
                 </motion.div>
 
                 <motion.p
@@ -946,7 +946,7 @@ export default function Portfolio() {
                   className="text-lg text-gray-600 dark:text-gray-300 mb-8 max-w-lg"
                 >
                   Passionate about creating innovative solutions and building the future through code. Currently
-                  exploring the endless possibilities of web development and software engineering.
+                  exploring the endless possibilities of web development .
                 </motion.p>
 
                 <motion.div
@@ -1130,7 +1130,7 @@ export default function Portfolio() {
                 About Me
               </h2>
               <p className="text-xl text-gray-600 dark:text-gray-300 max-w-3xl mx-auto">
-                A passionate and driven BSc.IT student with a love for technology and innovation. Currently in my 2nd
+                A passionate and driven BSc(hons)CS,student with a love for technology and innovation. Currently in my 2nd
                 year, I'm exploring the fascinating world of software development and building projects that make a
                 difference.
               </p>
